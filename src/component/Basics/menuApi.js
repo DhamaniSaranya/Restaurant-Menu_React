@@ -56,7 +56,7 @@ const MenuApi = [
     },
     {
       id: 7,
-      image: "../images/sweet.jpg",
+      image: "../images/sweet.JPG",
       name: "Sweets",
       category: "dinner",
       price: "60₹",
